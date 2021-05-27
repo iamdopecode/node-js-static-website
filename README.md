@@ -1,4 +1,4 @@
-#Node JS Static Landing Page
+# Node JS Static Landing Page
 
 * A simple landing page with integration of backend server using Node JS & Express JS.
 
